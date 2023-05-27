@@ -1,0 +1,7 @@
+git config --global user.name 'AlexDream13'
+git config --global user.email 'alexdream13rus@hotmail.com'
+git init
+git status
+git config --global core.autocrlf true
+git add .
+
